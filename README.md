@@ -6,8 +6,26 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.
 
 #### Markdown Videos:  
-\- About Markdown  
-\- About Tools  
-\- How to Learn with these Videos  
-\- Paragraphs and Text  
-\- Headers  
+1. About Markdown  
+200. About Tools  
+32. How to Learn with these Videos 
+    33. Cows
+    34. Horses
+    35. Chickens 
+        36. White Chickens
+        37. Brown Chickens
+        38. Black Chickens    
+04. How to Learn with these Videos  
+4. Paragraphs and Text 
+5. Text text text 
+6. Headers  
+
+
+
+
+
+.
+
+.
+
+.
