@@ -5,6 +5,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.
 
+![Image of a Black and White Kitten](https://raw.githubusercontent.com/webcraftie/Markdown/master/kitten.png "What a cute kitten!")
+
 #### Markdown Videos:  
 * About Markdown  
   * About Tools  
