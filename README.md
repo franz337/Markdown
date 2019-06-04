@@ -5,15 +5,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.
 
-[Check out this Cute Kitten!](ThisCat.md)
+
+![Image of a Black and White Kitten](https://raw.githubusercontent.com/webcraftie/Markdown/master/images/kitten.png "What a cute kitten!")
 
 #### Markdown Videos:  
-* About Markdown  
-  * About Tools  
-  * How to Learn with these Videos  
-    * Paragraphs and Text 
-    * Text text text 
-  * Headers  
+[ ] About Markdown  
+[ ] About Tools  
+[ ] How to Learn with these Videos  
+[ ] Paragraphs and Text  
+[ ] Text text text  
+[ ] Headers  
+[ ] Images  
+[ ] Links  
+[ ] Checklists  
+[ ] Images by Reference  
+[ ] Links by Reference
 
 
 
