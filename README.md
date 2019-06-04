@@ -9,17 +9,12 @@
 ![Image of a Black and White Kitten](https://raw.githubusercontent.com/webcraftie/Markdown/master/images/kitten.png "What a cute kitten!")
 
 #### Markdown Videos:  
-- [x] About Markdown  
-- [x] About Tools  
-- [x] How to Learn with these Videos  
-- [ ] Paragraphs and Text  
-- [ ] Text text text  
-- [ ] Headers  
-- [ ] Images  
-- [ ] Links  
-- [ ] Checklists  
-- [ ] Images by Reference  
-- [ ] Links by Reference
+* About Markdown  
+  * About Tools  
+  * How to Learn with these Videos  
+    * Paragraphs and Text 
+    * Text text text 
+  * Headers  
 
 
 
