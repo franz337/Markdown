@@ -8,18 +8,18 @@
 ![Image of a Black and White Kitten](https://raw.githubusercontent.com/webcraftie/Markdown/master/images/kitten.png "What a cute kitten!")
 
 #### Markdown Videos:  
-- [x] About Markdown  
-- [x] About Tools  
-- [x] How to Learn with these Videos  
-- [x] Paragraphs and Text 
-- [x] Text text text 
-- [x] Headers 
-- [x] images
-- [x] links
-- [ ] task lists
-- [ ] images by reference
-- [ ] links by reference
-- [ ] how to make an image a link 
+* [x] About Markdown  
+* [x] About Tools  
+* [x] How to Learn with these Videos  
+* [x] Paragraphs and Text 
+* [x] Text text text 
+* [x] Headers 
+* [x] images
+* [x] links
+* [ ] task lists
+* [ ] images by reference
+* [ ] links by reference
+* [ ] how to make an image a link 
 
 
 
