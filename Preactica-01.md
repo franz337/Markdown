@@ -1,7 +1,7 @@
 <CENTER> 
-#PRACTICA N° 1#
+# PRACTICA N° 1
   
-##SISTEMAS EMPRESARIALES
+## SISTEMAS EMPRESARIALES
 Carrera:    INGENIERIA DE SISTEMAS 
 
 Materia:    EMERGENTES II
@@ -13,7 +13,7 @@ C.I:    12864044 L.P.
 Lugar y fecha:  EL ALTO 12/08/2019
 </CENTER>
 
-##1) ¿EXPLIQUE QUE SON LOS SISTEMAS EMPRESARIALES?
+## 1) ¿EXPLIQUE QUE SON LOS SISTEMAS EMPRESARIALES?
 *Es generalmente cualquier tipo de sistema de computación que es de clase Enterprise* esto significa normal mente que ofrece alta calidad de servicio. 
 ##2) DESCRIBA CUALES SON CARACTERISTICAS MAS IMPORTANTES DE UNA APLICACIÓN EMPRESARIAL.
 -Disponibilidad
@@ -161,4 +161,4 @@ La realidad es que este tipo de escalamiento tiene algunos aspectos negativos, y
   -*METODO GETOUTPUTSTREAM.-* 
   ***Para devolver datos binarios.***
   
-[EJEMPLO DE METODO DE LA CLASE HTTPSERVLETRESPONSE](https://www.google.com/imgres?imgurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F3414386%2F12%2Fimages%2F15%2FSERVLET%253A%2BEjemplo%2B2%2B%2528FolderRoot.class%2529.jpg&imgrefurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F3414386%2F&docid=HqtnK887DCS7nM&tbnid=HWUCDEgbS_8djM%3A&vet=10ahUKEwi_9vHOpv7jAhVPnFkKHeEqDd8QMwg_KAAwAA..i&w=960&h=720&bih=920&biw=1920&q=EJEMPLO%20DE%20LA%20CLASE%20HTTPSERVLETRESPONSE&ved=0ahUKEwi_9vHOpv7jAhVPnFkKHeEqDd8QMwg_KAAwAA&iact=mrc&uact=8)
+[EJEMPLOS DE METODO DE LA CLASE HTTPSERVLETRESPONSE](https://www.google.com/imgres?imgurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F3414386%2F12%2Fimages%2F15%2FSERVLET%253A%2BEjemplo%2B2%2B%2528FolderRoot.class%2529.jpg&imgrefurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F3414386%2F&docid=HqtnK887DCS7nM&tbnid=HWUCDEgbS_8djM%3A&vet=10ahUKEwi_9vHOpv7jAhVPnFkKHeEqDd8QMwg_KAAwAA..i&w=960&h=720&bih=920&biw=1920&q=EJEMPLO%20DE%20LA%20CLASE%20HTTPSERVLETRESPONSE&ved=0ahUKEwi_9vHOpv7jAhVPnFkKHeEqDd8QMwg_KAAwAA&iact=mrc&uact=8)
