@@ -56,8 +56,7 @@ La realidad es que este tipo de escalamiento tiene algunos aspectos negativos, y
 -*Servidor de aplicación.-* 
 ***en informática es una red de computadores que ejecuta ciertas aplicaciones. Usualmente se trata de un dispositivo de software que proporciona servicios de aplicación a las computadoras cliente. Un servidor de aplicación generalmente gestiona la mayor parte (o la totalidad) de las funciones de lógica de negocio   y acceso a los datos de la aplicación.***
 ## 6) CON UN GRAFICO EXPLIQUE COMO FUNCIONA EL PROTOCOLO HTTP
-
-[CLICK AQUI PROTOCOLO HTTP](https://github.com/franz337/Markdown/blob/master/images/1.jpg)
+![CLICK AQUI PROTOCOLO HTTP](https://github.com/franz337/Markdown/blob/master/images/1.jpg)
 
 ## 7) EXPLIQUE LOS ELEMETOS IMPORTANTES DE REQUEST EN HTTP
 -*Certifícate.-* 
