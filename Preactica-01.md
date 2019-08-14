@@ -138,7 +138,7 @@ La realidad es que este tipo de escalamiento tiene algunos aspectos negativos, y
 -*DESTROY().-* 
 ***Este método es llamado por el servidor para indicar el servlet será destruido. Es llamado solo una vez y uno debe encargarse de esperar por posibles peticiones en curso.***
 
-[EJEMPLO DE METODO DE LA CLASE HTTPSERVLET](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.slidesharecdn.com%2Fclaseservlet-150224180109-conversion-gate01%2F95%2Fclase-servlet-anlisis-de-sistemas-6-638.jpg%3Fcb%3D1424800922&imgrefurl=https%3A%2F%2Fes.slideshare.net%2Fjoseht8%2Fclase-servlet-anlisis-de-sistemas&docid=sxEtvJnflZeT5M&tbnid=EvOhYoNPSMV5GM%3A&vet=10ahUKEwi28Neipf7jAhWGxVkKHWeGDrQQMwg_KAAwAA..i&w=638&h=479&bih=920&biw=1920&q=EJEMPLO%20DE%20LA%20CLASE%20HTTPSERVLET&ved=0ahUKEwi28Neipf7jAhWGxVkKHWeGDrQQMwg_KAAwAA&iact=mrc&uact=8)
+![EJEMPLO DE METODO DE LA CLASE HTTPSERVLET](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.slidesharecdn.com%2Fclaseservlet-150224180109-conversion-gate01%2F95%2Fclase-servlet-anlisis-de-sistemas-6-638.jpg%3Fcb%3D1424800922&imgrefurl=https%3A%2F%2Fes.slideshare.net%2Fjoseht8%2Fclase-servlet-anlisis-de-sistemas&docid=sxEtvJnflZeT5M&tbnid=EvOhYoNPSMV5GM%3A&vet=10ahUKEwi28Neipf7jAhWGxVkKHWeGDrQQMwg_KAAwAA..i&w=638&h=479&bih=920&biw=1920&q=EJEMPLO%20DE%20LA%20CLASE%20HTTPSERVLET&ved=0ahUKEwi28Neipf7jAhWGxVkKHWeGDrQQMwg_KAAwAA&iact=mrc&uact=8)
 
 ### METODO DE LA CLASE HTTPSERVLETREQUEST
   -*METODO GETPARAMETER.-* 
@@ -147,7 +147,7 @@ La realidad es que este tipo de escalamiento tiene algunos aspectos negativos, y
 -*METODO GETQUERYSTRING.-* 
 ***Para peticiones GET de HTTP devuelve en un string una línea de datos desde le cliente. Debemos analizar estos datos nosotros mismos para obtener los parámetros y los valores. Para peticiones POST, PUT, Y DELETE DE HTTP.***
 
-[EJEMPLO DE METODO DE LA CLASE HTTPSERVLETREQUEST](https://www.google.com/imgres?imgurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F3414386%2F12%2Fimages%2F14%2FSERVLET%253A%2BEjemplo%2B1%2B%2528HolaFigura.class%2529.jpg&imgrefurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F3414386%2F&docid=HqtnK887DCS7nM&tbnid=ugPLs4b28JMG1M%3A&vet=10ahUKEwiNtpeQpv7jAhXFuVkKHbK-BakQMwg_KAAwAA..i&w=960&h=720&bih=920&biw=1920&q=EJEMPLO%20DE%20LA%20CLASE%20HTTPSERVLETREQUEST&ved=0ahUKEwiNtpeQpv7jAhXFuVkKHbK-BakQMwg_KAAwAA&iact=mrc&uact=8)
+![EJEMPLO DE METODO DE LA CLASE HTTPSERVLETREQUEST](https://www.google.com/imgres?imgurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F3414386%2F12%2Fimages%2F14%2FSERVLET%253A%2BEjemplo%2B1%2B%2528HolaFigura.class%2529.jpg&imgrefurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F3414386%2F&docid=HqtnK887DCS7nM&tbnid=ugPLs4b28JMG1M%3A&vet=10ahUKEwiNtpeQpv7jAhXFuVkKHbK-BakQMwg_KAAwAA..i&w=960&h=720&bih=920&biw=1920&q=EJEMPLO%20DE%20LA%20CLASE%20HTTPSERVLETREQUEST&ved=0ahUKEwiNtpeQpv7jAhXFuVkKHbK-BakQMwg_KAAwAA&iact=mrc&uact=8)
 
 ### METODO DE LA CLASE HTTPSERVLETRESPONSE
   -*EL METODO GETWRITER.-* 
@@ -156,4 +156,4 @@ La realidad es que este tipo de escalamiento tiene algunos aspectos negativos, y
   -*METODO GETOUTPUTSTREAM.-* 
   ***Para devolver datos binarios.***
   
-[EJEMPLOS DE METODO DE LA CLASE HTTPSERVLETRESPONSE](https://www.google.com/imgres?imgurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F3414386%2F12%2Fimages%2F15%2FSERVLET%253A%2BEjemplo%2B2%2B%2528FolderRoot.class%2529.jpg&imgrefurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F3414386%2F&docid=HqtnK887DCS7nM&tbnid=HWUCDEgbS_8djM%3A&vet=10ahUKEwi_9vHOpv7jAhVPnFkKHeEqDd8QMwg_KAAwAA..i&w=960&h=720&bih=920&biw=1920&q=EJEMPLO%20DE%20LA%20CLASE%20HTTPSERVLETRESPONSE&ved=0ahUKEwi_9vHOpv7jAhVPnFkKHeEqDd8QMwg_KAAwAA&iact=mrc&uact=8)
+![EJEMPLOS DE METODO DE LA CLASE HTTPSERVLETRESPONSE](https://www.google.com/imgres?imgurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F3414386%2F12%2Fimages%2F15%2FSERVLET%253A%2BEjemplo%2B2%2B%2528FolderRoot.class%2529.jpg&imgrefurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F3414386%2F&docid=HqtnK887DCS7nM&tbnid=HWUCDEgbS_8djM%3A&vet=10ahUKEwi_9vHOpv7jAhVPnFkKHeEqDd8QMwg_KAAwAA..i&w=960&h=720&bih=920&biw=1920&q=EJEMPLO%20DE%20LA%20CLASE%20HTTPSERVLETRESPONSE&ved=0ahUKEwi_9vHOpv7jAhVPnFkKHeEqDd8QMwg_KAAwAA&iact=mrc&uact=8)
