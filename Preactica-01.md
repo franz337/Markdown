@@ -124,11 +124,11 @@ La realidad es que este tipo de escalamiento tiene algunos aspectos negativos, y
 -*EL CICLO DE LA VIDA.-* 
 ***Cada servlet tiene un siclo de vida:***
 
->>> -Un servidor carga e inicializa el servlet.
+>  -Un servidor carga e inicializa el servlet.
 
->>> -El servlet maneja cero o mas peticiones de cliente.
+>  -El servlet maneja cero o mas peticiones de cliente.
 
->>> -El servidor elimina el servlet.
+>       -El servidor elimina el servlet.
 
 -*GETSERVLETCONFING().-* 
 ***Retorna la configuración dada para la inicialización del servlet.***
