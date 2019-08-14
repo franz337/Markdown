@@ -138,7 +138,7 @@ La realidad es que este tipo de escalamiento tiene algunos aspectos negativos, y
 -*DESTROY().-* 
 ***Este método es llamado por el servidor para indicar el servlet será destruido. Es llamado solo una vez y uno debe encargarse de esperar por posibles peticiones en curso.***
 
-![EJEMPLO DE METODO DE LA CLASE HTTPSERVLET](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.slidesharecdn.com%2Fclaseservlet-150224180109-conversion-gate01%2F95%2Fclase-servlet-anlisis-de-sistemas-6-638.jpg%3Fcb%3D1424800922&imgrefurl=https%3A%2F%2Fes.slideshare.net%2Fjoseht8%2Fclase-servlet-anlisis-de-sistemas&docid=sxEtvJnflZeT5M&tbnid=EvOhYoNPSMV5GM%3A&vet=10ahUKEwi28Neipf7jAhWGxVkKHWeGDrQQMwg_KAAwAA..i&w=638&h=479&bih=920&biw=1920&q=EJEMPLO%20DE%20LA%20CLASE%20HTTPSERVLET&ved=0ahUKEwi28Neipf7jAhWGxVkKHWeGDrQQMwg_KAAwAA&iact=mrc&uact=8)
+![EJEMPLO DE METODO DE LA CLASE HTTPSERVLET](https://github.com/franz337/Markdown/blob/master/images/2.jpg)
 
 ### METODO DE LA CLASE HTTPSERVLETREQUEST
   -*METODO GETPARAMETER.-* 
