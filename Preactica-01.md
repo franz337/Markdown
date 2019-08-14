@@ -1,5 +1,3 @@
-<CENTER> 
-  
 ## PRACTICA NRO 1  
 ## SISTEMAS EMPRESARIALES
 Carrera:    INGENIERIA DE SISTEMAS 
@@ -11,7 +9,6 @@ Apellido y Nombre:  CALLIZAYA QUISPE FRANCISCO
 C.I:    12864044 L.P.
 
 Lugar y fecha:  EL ALTO 12/08/2019
-</CENTER>
 
 ## 1) ¿EXPLIQUE QUE SON LOS SISTEMAS EMPRESARIALES?
 *Es generalmente cualquier tipo de sistema de computación que es de clase Enterprise* esto significa normal mente que ofrece alta calidad de servicio. 
