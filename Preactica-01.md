@@ -147,7 +147,7 @@ La realidad es que este tipo de escalamiento tiene algunos aspectos negativos, y
 -*METODO GETQUERYSTRING.-* 
 ***Para peticiones GET de HTTP devuelve en un string una línea de datos desde le cliente. Debemos analizar estos datos nosotros mismos para obtener los parámetros y los valores. Para peticiones POST, PUT, Y DELETE DE HTTP.***
 
-![EJEMPLO DE METODO DE LA CLASE HTTPSERVLETREQUEST](https://www.google.com/imgres?imgurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F3414386%2F12%2Fimages%2F14%2FSERVLET%253A%2BEjemplo%2B1%2B%2528HolaFigura.class%2529.jpg&imgrefurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F3414386%2F&docid=HqtnK887DCS7nM&tbnid=ugPLs4b28JMG1M%3A&vet=10ahUKEwiNtpeQpv7jAhXFuVkKHbK-BakQMwg_KAAwAA..i&w=960&h=720&bih=920&biw=1920&q=EJEMPLO%20DE%20LA%20CLASE%20HTTPSERVLETREQUEST&ved=0ahUKEwiNtpeQpv7jAhXFuVkKHbK-BakQMwg_KAAwAA&iact=mrc&uact=8)
+![EJEMPLO DE METODO DE LA CLASE HTTPSERVLETREQUEST](https://github.com/franz337/Markdown/blob/master/images/3.jpg)
 
 ### METODO DE LA CLASE HTTPSERVLETRESPONSE
   -*EL METODO GETWRITER.-* 
