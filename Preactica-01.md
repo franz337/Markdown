@@ -57,7 +57,7 @@ La realidad es que este tipo de escalamiento tiene algunos aspectos negativos, y
 ***en informática es una red de computadores que ejecuta ciertas aplicaciones. Usualmente se trata de un dispositivo de software que proporciona servicios de aplicación a las computadoras cliente. Un servidor de aplicación generalmente gestiona la mayor parte (o la totalidad) de las funciones de lógica de negocio   y acceso a los datos de la aplicación.***
 ## 6) CON UN GRAFICO EXPLIQUE COMO FUNCIONA EL PROTOCOLO HTTP
 
-[CLICK AQUI PROTOCOLO HTTP](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.slidesharecdn.com%2Fpresentacionhttp-https-dns-140922001131-phpapp02%2F95%2Fpresentacion-httphttpsdns-4-638.jpg%3Fcb%3D1411345623&imgrefurl=https%3A%2F%2Fes.slideshare.net%2Fjalvarezpiedra%2Fpresentacion-httphttpsdns&docid=WfyX4-e8X2B3wM&tbnid=PTgcHNRtK-rfoM%3A&vet=10ahUKEwi8w9LEo_7jAhVPo1kKHbGkCPQQMwhVKAUwBQ..i&w=638&h=479&bih=920&biw=1920&q=funcionamiento%20de%20PROTOCOLO%20HTTP&ved=0ahUKEwi8w9LEo_7jAhVPo1kKHbGkCPQQMwhVKAUwBQ&iact=mrc&uact=8)
+[CLICK AQUI PROTOCOLO HTTP](https://github.com/franz337/Markdown/blob/master/images/1.jpg)
 
 ## 7) EXPLIQUE LOS ELEMETOS IMPORTANTES DE REQUEST EN HTTP
 -*Certifícate.-* 
